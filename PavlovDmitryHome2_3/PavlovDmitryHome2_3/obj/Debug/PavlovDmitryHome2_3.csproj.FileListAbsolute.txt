@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.csprojAssemblyReference.cache
+c:\users\admin\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\bin\Debug\PavlovDmitryHome2_3.exe.config
+c:\users\admin\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\bin\Debug\PavlovDmitryHome2_3.exe
+c:\users\admin\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\bin\Debug\PavlovDmitryHome2_3.pdb
+c:\users\admin\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.exe
+c:\users\admin\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.pdb
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\bin\Debug\PavlovDmitryHome2_3.exe.config
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\bin\Debug\PavlovDmitryHome2_3.exe
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\bin\Debug\PavlovDmitryHome2_3.pdb
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.exe
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\PavlovDmitryHome2_3\obj\Debug\PavlovDmitryHome2_3.pdb

@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.csprojAssemblyReference.cache
+c:\users\admin\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PavlovDmitryHome2_3\Three\bin\Debug\Three.exe.config
+C:\Users\Admin\source\repos\PavlovDmitryHome2_3\Three\bin\Debug\Three.exe
+C:\Users\Admin\source\repos\PavlovDmitryHome2_3\Three\bin\Debug\Three.pdb
+C:\Users\Admin\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.exe
+C:\Users\Admin\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.pdb
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\Three\bin\Debug\Three.exe.config
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\Three\bin\Debug\Three.exe
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\Three\bin\Debug\Three.pdb
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.exe
+C:\Users\Home\source\repos\PavlovDmitryHome2_3\Three\obj\Debug\Three.pdb
