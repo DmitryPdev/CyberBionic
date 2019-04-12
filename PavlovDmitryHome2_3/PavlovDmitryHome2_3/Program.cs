@@ -129,12 +129,12 @@ namespace PavlovDmitryHome2_3
     {
         static void Main(string[] args)
         {
-			// This is Comit 1
+			// This is Commit 1
             Pupil pupils = new Pupil();
             Pupil pupils1 = new ExcelentPupil();
             Pupil pupils2 = new BadPupil();
             Pupil pupils3 = new GoodPupil();
-
+               // This is Commit 2
             ClassRoom A1 = new ClassRoom(pupils);
             ClassRoom B1 = new ClassRoom(pupils1,pupils2);
             ClassRoom C1 = new ClassRoom(pupils1, pupils2, pupils3);
